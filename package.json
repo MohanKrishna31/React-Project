@@ -1,0 +1,25 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "React Project by Mohan Krishna",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/MohanKrishna31/React-Project.git)"
+  },
+  "author": "Dondapati Naga Mohan Krishna",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}

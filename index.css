@@ -1,0 +1,21 @@
+.mainHeading {
+    color: blue;
+}
+
+#mainHeading {
+    color: aqua;
+}
+
+.mainHeading1 {
+    color: red;
+}
+
+#mainHeading1 {
+    color: blueviolet;
+}
+
+body {
+    background-color: black;
+    color: white;
+
+}
